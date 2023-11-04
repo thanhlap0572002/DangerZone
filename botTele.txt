@@ -1,8 +1,8 @@
-cách để lấy id cũng như là token cảu bot telegram : 
-b1 : có tk telegram
+cách để lấy id cũng như là token của bot telegram : 
+b1 : tạo tài khoản telegram
 b2 : lấy bot ở botfather 
 b3 :/newbot để lấy bot mới
 b4 : - lấy token của bot đã cung cấp
 https://api.telegram.org/bot[token]/getUpdates
      - lấy id của mình 
-b5: code để nhận thông tin từ bot về token và id của  mình 
+b5: code để nhận thông tin từ bot về token và id của mình 
